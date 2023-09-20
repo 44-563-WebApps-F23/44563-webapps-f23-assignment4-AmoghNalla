@@ -25,6 +25,24 @@ p.directions:hover{
     color:greenyellow;
 }
 
+table{
+    border-style:solid;
+    text-align: center;
+    color: blueviolet;
+    margin: 20px;
+}
+
+th{
+    color: black;
+}
+
+tr:nth-child(odd){
+    background-color: wheat;
+}
+
+th,td{
+    padding: 15px;
+}
 
 
 
