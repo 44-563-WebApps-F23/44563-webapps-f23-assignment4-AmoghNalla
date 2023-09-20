@@ -24,24 +24,36 @@ p.directions:hover{
 .mrsalving{
     color:greenyellow;
 }
-
+.table_heading{
+    text-align: center;
+}
 table{
     border-style:solid;
     text-align: center;
-    color: blueviolet;
-    margin: 20px;
-}
-
-th{
     color: black;
-}
-
-tr:nth-child(odd){
-    background-color: wheat;
+    margin:auto;
 }
 
 th,td{
-    padding: 15px;
+    color:black;
+    padding:20px;
+}
+
+tr:nth-child(odd){
+    background-color: #f2f2f2;
+}
+
+h3.manders:hover{
+    text-shadow: 2px 2px 2px black;
+    border: 1px dotted black;
+    filter:blur(0.2px);
+
+}
+
+h3.mrsalving:hover{
+    text-shadow: 2px 2px 2px black;
+    border: 1px dotted black;
+    filter:blur(0.2px);
 }
 
 
