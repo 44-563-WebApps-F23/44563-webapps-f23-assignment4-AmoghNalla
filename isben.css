@@ -58,6 +58,8 @@ h3.mrsalving:hover{
     filter:blur(0.6px);
 }
 
+
+
 .navbar-horizontal{
     margin:0;
     padding:0;
@@ -77,4 +79,9 @@ ul.navbar-horizontal li a {
     text-align: center;
 }
 
+i{
+    color:red;
+    font-size:24px;
+    margin-right:100px;
+}
 
