@@ -56,5 +56,23 @@ h3.mrsalving:hover{
     filter:blur(0.2px);
 }
 
+.navbar-horizontal{
+    margin:0;
+    padding:0;
+    background-color: black;
+}
+
+ul.navbar-horizontal li{
+    display:inline;
+    float:left;
+    background-color: black;
+}
+
+ul.navbar-horizontal li a {
+    display:block;
+    padding:40px 40px;
+    background-color: black;
+    text-align: center;
+}
 
 
